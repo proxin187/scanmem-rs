@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "e31b49705de92b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3613d38d8dc2bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e7abfbe38d995e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "833d0b4a1347288a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ab03635ea0b2a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2d7d63c33cebe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a2ef57a737cec3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5d4c42431820df9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90d6bfce7e825e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba90d5b2b56391c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62418c7cce00d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8410abda08549659",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d8cd2a52c8c3fb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c55d7fb85d9b1632",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6e7abfbe38d995e",
+  "lastOpenFiles": [
+    "target/debug/incremental/scanmem-zgnc6e88x9f5/s-gsu1radqdd-1isa1ll-e4qlhr8ndmkbrkyiucjh38mjw/work-products.bin",
+    "target/debug/incremental/scanmem-zgnc6e88x9f5/s-gsu1radqdd-1isa1ll-e4qlhr8ndmkbrkyiucjh38mjw/query-cache.bin",
+    "target/debug/incremental/scanmem-zgnc6e88x9f5/s-gsu1radqdd-1isa1ll-e4qlhr8ndmkbrkyiucjh38mjw/dep-graph.bin",
+    "target/debug/incremental/scanmem-zgnc6e88x9f5/s-gsu1radqdd-1isa1ll-e4qlhr8ndmkbrkyiucjh38mjw",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-aprj08iquwsy9pk2pydbr9fcj/work-products.bin",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-aprj08iquwsy9pk2pydbr9fcj/query-cache.bin",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-aprj08iquwsy9pk2pydbr9fcj/dep-graph.bin",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-aprj08iquwsy9pk2pydbr9fcj",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-working/work-products.bin",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-working/query-cache.bin",
+    "target/debug/incremental/scanmem-3md4mr3prspff/s-gsu1radqd4-3wir7q-working/dep-graph.part.bin",
+    "Procs.md",
+    "README.md"
+  ]
+}
